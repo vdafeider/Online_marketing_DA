@@ -4,12 +4,6 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This repository contains the **ONLINE MARKETING CAMPAIGN DASHBOARD** created in Power BI. It provides detailed insights into online campaigns across various social platforms over a one-month period. The dashboard includes key marketing metrics such as Return on Marketing Investment (ROMI), Contribution Margin, Click-Through Rate (CTR), Lead Rate, Order Rate, Conversion Rate, and more.
-
-The project demonstrates Power BI’s capabilities for creating interactive, app-like dashboards with modern visual design.
-
-[OPEN DASHBOARD ON MICROSOFT SERVICES](https://app.powerbi.com/view?r=eyJrIjoiYmMyNzYyYWEtODM3Yi00MjE5LWIyNmQtZmM3OWFkYWFiNWFkIiwidCI6IjU5YTZhM2Y5LTMwYWItNDBmZi1hNDZhLWYzZThkZDU4OGZhOSIsImMiOjl9)
-
 ---
 
 ## Table of Contents
@@ -25,9 +19,15 @@ The project demonstrates Power BI’s capabilities for creating interactive, app
 10. [Author](#author)
 
 ---
-
 ## Project Overview
 
+This repository contains the **ONLINE MARKETING CAMPAIGN DASHBOARD** created in Power BI. It provides detailed insights into online campaigns across various social platforms over a one-month period. The dashboard includes key marketing metrics such as Return on Marketing Investment (ROMI), Contribution Margin, Click-Through Rate (CTR), Lead Rate, Order Rate, Conversion Rate, and more.
+
+The project demonstrates Power BI’s capabilities for creating interactive, app-like dashboards with modern visual design.
+
+[OPEN DASHBOARD ON MICROSOFT SERVICES](https://app.powerbi.com/view?r=eyJrIjoiYmMyNzYyYWEtODM3Yi00MjE5LWIyNmQtZmM3OWFkYWFiNWFkIiwidCI6IjU5YTZhM2Y5LTMwYWItNDBmZi1hNDZhLWYzZThkZDU4OGZhOSIsImMiOjl9)
+
+---
 ### Tools Used
 - **Power BI** – for building the dashboard  
 - **Figma** – for prototyping and visualization  
